@@ -1,0 +1,16 @@
+{
+  "timestamp": "20260104_083857",
+  "total_frames": 172,
+  "duration_seconds": 9.74414,
+  "fps": 17.651634726102046,
+  "quality_score": 0.0,
+  "frames_with_both_hands": 0,
+  "frames_with_one_hand": 172,
+  "frames_with_no_hands": 0,
+  "avg_confidence": 0.9562460468258969,
+  "resolution": [
+    1280,
+    720
+  ],
+  "recording_mode": "expert_template"
+}

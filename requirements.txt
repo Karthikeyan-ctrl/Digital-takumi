@@ -1,0 +1,5 @@
+# Add project dependencies below
+black
+pytest
+flake8
+# Example: requests==2.31.0
