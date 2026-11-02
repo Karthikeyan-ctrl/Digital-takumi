@@ -1,5 +1,7 @@
-# Add project dependencies below
-black
-pytest
-flake8
-# Example: requests==2.31.0
+opencv-python>=4.10.0
+mediapipe>=0.10.20
+numpy>=2.0.0
+sounddevice>=0.5.0
+pytest>=8.0.0
+flake8>=7.0.0
+black>=24.0.0
